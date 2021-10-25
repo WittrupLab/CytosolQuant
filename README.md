@@ -1,6 +1,6 @@
 # CytoQuant
 
-This software package can be used to estimate cytosolic release amounts of fluorescently labelled macromolecules and estimate single-cell dose-response relationsships. By combining quantifications with continuous measurements of a fluorescent reporter gene, dose-response relationships can be visualised and a mathematical model for cellular responses can be estimated. The software runs on MATLAB 2018B or later. To run the examples below, set the “current folder” in MATLAB to the folder containing the script, then run the script. Exemplary data of cells expressing a destabilised eGFP treated with siGFP-AF647 lipoplexes are included. 
+This software package can be used to estimate cytosolic release amounts of fluorescently labelled macromolecules and estimate single-cell dose-response relationsships. By combining quantifications with continuous measurements of a fluorescent reporter gene, dose-response relationships can be visualised and a mathematical model for cellular responses can be estimated. The software runs on MATLAB 2018B or later (requires Statistics and Machine Learning Toolbox). To run the examples below, set the “current folder” in MATLAB to the folder containing the script, then run the script. Exemplary data of cells expressing a destabilised eGFP treated with siGFP-AF647 lipoplexes are included. 
 
 Example use:
 
