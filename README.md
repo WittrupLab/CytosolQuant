@@ -10,7 +10,7 @@ Fits three siRNA quantification models to cytosolic siRNA measurements. Press bu
 
 code/QuantilePlots/plotReleaseSortedeGFP.m
 
-Plots eGFP responses for quintiles of cells treated with siGFP-1 and with quantification R2>0.3
+Plots eGFP responses for quartiles of cells treated with siGFP-1 and with quantification R2>0.75
 
 code/eGFP/ploteGFPmeans.m
 
