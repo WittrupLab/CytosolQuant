@@ -18,7 +18,7 @@ Plots eGFP downregulation model estimates relative to individual traces of eGFP 
 
 # Acknowledgement
 
-This work was carried out in the lab of Anders Wittrup and Jonas Wallin, Lund University, and supported by funding from the Swedish Society for Medical Research (SSMF). 
+This work was carried out in the labs of Anders Wittrup and Jonas Wallin, Lund University, and supported by funding from the Swedish Society for Medical Research (SSMF). 
 
 
 # Licence
