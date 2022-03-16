@@ -2,7 +2,7 @@
 
 This software package can be used to estimate cytosolic release amounts of fluorescently labelled macromolecules and estimate single-cell dose-response relationsships. By combining quantifications with continuous measurements of a fluorescent reporter gene, dose-response relationships can be visualised and a mathematical model for cellular responses can be estimated. The software runs on MATLAB 2018B or later (requires Statistics and Machine Learning Toolbox and Optimization Toolbox). To run the examples below, set the “current folder” in MATLAB to the folder containing the script, then run the script. Exemplary data of cells expressing a destabilised eGFP treated with siGFP-AF647 lipoplexes are included. 
 
-For a step-by-step guide and examples using provided data, see the attached PDF-file. All files are accessible via figshare.com (https://doi.org/10.6084/m9.figshare.c.5875859.v4).
+For a step-by-step guide and examples using provided data, see the attached PDF-file. All files are accessible via figshare.com (https://doi.org/10.6084/m9.figshare.c.5875859).
 
 # Acknowledgement
 
