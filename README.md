@@ -2,19 +2,7 @@
 
 This software package can be used to estimate cytosolic release amounts of fluorescently labelled macromolecules and estimate single-cell dose-response relationsships. By combining quantifications with continuous measurements of a fluorescent reporter gene, dose-response relationships can be visualised and a mathematical model for cellular responses can be estimated. The software runs on MATLAB 2018B or later (requires Statistics and Machine Learning Toolbox and Optimization Toolbox). To run the examples below, set the “current folder” in MATLAB to the folder containing the script, then run the script. Exemplary data of cells expressing a destabilised eGFP treated with siGFP-AF647 lipoplexes are included. 
 
-Example use:
-
-code/siRNA/inputEstimationRNA.m
-
-Fits three siRNA quantification models to cytosolic siRNA measurements. Press button during run for next cell. Set ‘buttonPressFlag = 0’ for uninterrupted run. Total run time is 10 min on standard computer, ~10 s for a single cell.
-
-code/QuantilePlots/plotReleaseSortedeGFP.m
-
-Plots eGFP responses for quartiles of cells treated with siGFP-1 and with quantification R2>0.75
-
-code/eGFP/ploteGFPmeans.m
-
-Plots eGFP downregulation model estimates relative to individual traces of eGFP expression with groups divided by release magnitude quintiles
+For a step-by-step guide and examples using provided data, see the attached PDF-file. All files are accessible via figshare.com (https://doi.org/10.6084/m9.figshare.c.5875859.v4).
 
 # Acknowledgement
 
